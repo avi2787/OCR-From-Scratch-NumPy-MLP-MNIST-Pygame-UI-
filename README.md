@@ -180,3 +180,18 @@ This project demonstrates:
 - ability to implement backpropagation from scratch
 - experience working with raw dataset formats
 - ability to connect machine learning to an interactive application
+
+<img width="1753" height="664" alt="image" src="https://github.com/user-attachments/assets/b225dda2-077a-445f-b0cc-06bc9dd2de37" />
+<img width="549" height="646" alt="image" src="https://github.com/user-attachments/assets/a4d57ebc-ba6a-4e88-861b-89845621ec73" />
+<img width="532" height="612" alt="image" src="https://github.com/user-attachments/assets/3af00a2a-3b40-4a51-9a99-66281f17f207" />
+<img width="524" height="614" alt="image" src="https://github.com/user-attachments/assets/8634796e-80d2-44ff-9d4b-649bea9d9f7b" />
+<img width="526" height="703" alt="image" src="https://github.com/user-attachments/assets/3ef3f037-908e-46a2-9e8f-e8ec0f02db58" />
+<img width="556" height="302" alt="image" src="https://github.com/user-attachments/assets/4d990768-790c-4a8f-ad2c-167ae5472745" />
+
+
+
+
+
+
+
+
